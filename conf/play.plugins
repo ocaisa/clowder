@@ -21,7 +21,8 @@
 10020:services.SecureSocialEventListener
 #10050:services.CrowdProvider
 #10051:services.CILogonProvider
-#10052:services.GitLabProvider
+#10052:services.LdapProvider
+#10053:services.GitLabProvider
 #10090:services.MailerPlugin
 #10091:services.AdminsNotifierPlugin
 #10100:services.TempFilesPlugin
