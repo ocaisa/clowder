@@ -50,7 +50,7 @@ class GitLabProvider(application: Application) extends OAuth2Provider(applicatio
       }
     } catch {
       case e: Exception => {
-        Logger.error( "[securesocial] error retrieving profilee information from GitLab", e)
+        Logger.error( "[securesocial] error retrieving profile information from GitLab", e)
         throw new AuthenticationException()
       }
     }

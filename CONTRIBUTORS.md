@@ -1,5 +1,6 @@
 Following is a list of contributors in alphabetical order:
 
+- Alan O'Cais
 - Ashwini Vaidya
 - Avinash Kumar
 - Bing Zhang

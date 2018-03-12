@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
   [CATS-856](https://opensource.ncsa.illinois.edu/jira/browse/CATS-856)
 - Fixed bug of ``Account not active'' when using mongo-init to create user account.
   [BD-2042](https://opensource.ncsa.illinois.edu/jira/browse/BD-2042)
+- Added authentication via GitLabServer
 ### Added
 - Add LDAP authorization
   [CATS-54](https://opensource.ncsa.illinois.edu/jira/browse/CATS-54)
